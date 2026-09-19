@@ -33,31 +33,31 @@ I'm a Computer Science graduate (B.Tech, 2022–2026) who builds full-stack web 
 
 <p align="center"><b>Languages</b></p>
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" style="border-radius:30px; margin:5px;">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" style="border-radius:30px; margin:5px;">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" style="border-radius:30px; margin:5px;">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
 </p>
 
 <p align="center"><b>Web & Frameworks</b></p>
 <p align="center">
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" style="border-radius:30px; margin:5px;">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" style="border-radius:30px; margin:5px;">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" style="border-radius:30px; margin:5px;">
+<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 </p>
 
 <p align="center"><b>Databases</b></p>
 <p align="center">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" style="border-radius:30px; margin:5px;">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" style="border-radius:30px; margin:5px;">
-<img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" style="border-radius:30px; margin:5px;">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white">
 </p>
 
 <p align="center"><b>Cloud, CRM & Tools</b></p>
 <p align="center">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" style="border-radius:30px; margin:5px;">
-<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" style="border-radius:30px; margin:5px;">
-<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" style="border-radius:30px; margin:5px;">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" style="border-radius:30px; margin:5px;">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
 </p>
 
 ---
