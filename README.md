@@ -1,136 +1,143 @@
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────────────┐
-│ guest@nveerababu:~$ whoami                                │
-│ > N Veera Babu — Full-Stack Developer (Python / Django)   │
-│ guest@nveerababu:~$ ./run_status.sh                       │
-│ > Building AI-powered apps with Gemini API                │
-└──────────────────────────────────────────────────────────┘
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39FF14&background=0D1117&center=true&vCenter=true&width=650&lines=%24+sudo+access+granted...;Full-Stack+Dev+%7C+Python+%2F+Django;AI+apps+with+Google+Gemini+API;Salesforce+%2B+Zero+Trust+Security+Intern;print(%27Let%27s+build+something.%27)" alt="Typing SVG" />
-
-<p>
-  <a href="https://linkedin.com/in/nveerababu"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF14"></a>
-  <a href="mailto:neeliveerababu47@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14"></a>
-  <a href="https://github.com/nveerababu"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=39FF14"></a>
-  <!-- Add your portfolio link below if you have one -->
-  <!-- <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=39FF14"></a> -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=N%20Veera%20Babu&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Python%20%26%20Django%20%7C%20AI-Powered%20Apps&descAlignY=58&descSize=18" width="100%"/>
 </p>
 
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+AI-powered+web+apps+with+Gemini+API;Django+%2F+Python+%7C+Full-Stack+Developer;Salesforce+%26+Cloud+Security+Intern;Always+learning%2C+always+shipping" alt="Typing SVG" />
+</p>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/dino.gif" width="100%">
+<p align="center">
+  <a href="https://linkedin.com/in/nveerababu"><img src="https://img.shields.io/badge/LinkedIn-6a11cb?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:neeliveerababu47@gmail.com"><img src="https://img.shields.io/badge/Gmail-2575fc?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/nveerababu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <!-- Add Portfolio / Twitter links below if you have them -->
+  <!-- <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a> -->
+</p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nveerababu&style=for-the-badge&color=6a11cb&label=PROFILE+VIEWS" alt="profile views"/>
+</p>
 
-### `> cat about_me.sh`
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-```bash
-$ ./about.sh
-[OK]      Computer Science undergrad — B.Tech, KHIT Guntur (2022–2026)
-[OK]      Full-stack dev with Python, Flask & Django — role-based, DB-driven web apps
-[OK]      Built AI-powered apps integrated with Google Gemini API
-[OK]      Interned in Salesforce CRM dev + Zero Trust cloud security
-[LOADING] currently_learning: <!-- e.g. React, DevOps, System Design -->
-[TARGET]  looking_for: "Full-Stack Developer / Software Engineer roles"
-[EXTRA]   fun_fact: <!-- add something fun about yourself here -->
-```
+### 🧠 About Me
 
----
-
-### `> ls tech_stack/`
+I'm a Computer Science undergrad (B.Tech, KHIT Guntur, 2022–2026) building **full-stack web apps** with **Python, Flask, and Django** — role-based systems, database-driven apps, and AI-powered tools using the **Google Gemini API**. Also worked on **Salesforce CRM development** and **Zero Trust cloud security** through internships.
 
 ```yaml
-languages:      [Python, C]
-web_frameworks: [Django, Flask, HTML, CSS, JavaScript]
-databases:      [MySQL, MongoDB, SQLite]
-cloud_crm:      [AWS, Salesforce (Apex), Zscaler Zero Trust]
+🔭 Currently Building: Django + AI-integrated projects
+🌱 Currently Learning: <!-- add here -->
+🎯 Looking For: Full-Stack Developer / Software Engineer roles
+💬 Ask Me About: Django, Python, Salesforce Apex, Cloud Security
+⚡ Fun Fact: <!-- add here -->
 ```
 
-<p>
-  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=39FF14">
-  <img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=39FF14">
-  <img src="https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=39FF14">
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=39FF14">
-  <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=39FF14">
-  <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=39FF14">
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=39FF14">
-  <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=39FF14">
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=39FF14">
-  <img src="https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=39FF14">
-  <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonaws&logoColor=39FF14">
-  <img src="https://img.shields.io/badge/Salesforce-000000?style=flat-square&logo=salesforce&logoColor=39FF14">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,django,flask,html,css,js,mysql,mongodb,sqlite,aws,git,github&theme=dark" />
 </p>
 
----
-
-### `> grep -r "featured" ./projects`
-
-```
-[1] Sagebot — Gemini-Powered Chat Assistant
-    ├─ stack: Python, Django, Gemini API, SQLite
-    ├─ desc: AI chatbot with persistent chat history & secure env-based API key handling
-    └─ link: https://github.com/nveerababu   <!-- swap in real repo/demo link -->
-
-[2] Student Portal — Student Management System
-    ├─ stack: Python, Django, SQLite, HTML/CSS
-    ├─ desc: Role-based student/teacher logins, full CRUD, staff-only access control
-    └─ link: https://github.com/nveerababu   <!-- swap in real repo/demo link -->
-
-[3] Foodie Hub — Restaurant Menu Management System
-    ├─ stack: Python, Django, SQLite, HTML/CSS
-    ├─ desc: Category-based menu admin panel, deployed with Gunicorn + WhiteNoise
-    └─ link: https://github.com/nveerababu   <!-- swap in real repo/demo link -->
-```
-
----
-
-### `> ./fetch_stats.sh`
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nveerababu&show_icons=true&hide_border=true&theme=chartreuse-dark&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nveerababu&layout=compact&hide_border=true&theme=chartreuse-dark&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nveerababu&hide_border=true&background=0D1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="streak stats" />
-</div>
-
----
-
-### `> cat certifications.log`
-
-```
-[2024] AWS Cloud Practitioner — Amazon Web Services
-[2024] Zscaler Zero Trust Associate (ZZTA) — Zscaler Academy
-[2023] Salesforce Developer Virtual Internship — Salesforce/SmartInternz
-[2024] Zero Trust Cloud Security Virtual Internship — EduSkills
-```
-
----
-
-### `> echo $OPEN_TO`
-
-```
-> open-source Django / Python projects
-> AI-integrated web apps
-> freelance web development
-```
-
----
-
-<div align="center">
-
-### `> ping nveerababu --connect`
-
-<p>
-  <a href="https://linkedin.com/in/nveerababu"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF14"></a>
-  <a href="mailto:neeliveerababu47@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14"></a>
-  <a href="https://github.com/nveerababu"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=39FF14"></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white">
+  <img src="https://img.shields.io/badge/Zscaler-000000?style=flat-square&logo=zscaler&logoColor=white">
 </p>
 
-`connection established. thanks for stopping by. 👾`
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-</div>
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**🤖 Sagebot**
+Gemini-powered chat assistant
+
+`Python` `Django` `Gemini API` `SQLite`
+
+AI chatbot with persistent chat history and secure env-based API key handling.
+
+[🔗 View Project](https://github.com/nveerababu) <!-- swap in real repo/demo link -->
+
+</td>
+<td width="50%">
+
+**🎓 Student Portal**
+Student management system
+
+`Python` `Django` `SQLite` `HTML/CSS`
+
+Role-based student/teacher logins, full CRUD, staff-only access control.
+
+[🔗 View Project](https://github.com/nveerababu) <!-- swap in real repo/demo link -->
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🍽️ Foodie Hub**
+Restaurant menu management system
+
+`Python` `Django` `SQLite` `HTML/CSS`
+
+Category-based menu admin panel, deployed with Gunicorn + WhiteNoise.
+
+[🔗 View Project](https://github.com/nveerababu) <!-- swap in real repo/demo link -->
+
+</td>
+<td width="50%">
+
+**➕ Your Next Project**
+
+<!-- add your next big project here -->
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nveerababu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nveerababu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nveerababu&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats" />
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+### 🏆 Certifications
+
+| Year | Certification | Issuer |
+|:---:|:---|:---|
+| 2024 | ☁️ AWS Cloud Practitioner | Amazon Web Services |
+| 2024 | 🔐 Zscaler Zero Trust Associate (ZZTA) | Zscaler Academy |
+| 2023 | 💼 Salesforce Developer Virtual Internship | Salesforce/SmartInternz |
+| 2024 | 🔒 Zero Trust Cloud Security Virtual Internship | EduSkills |
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+### 🤝 Open to Collaborate On
+
+- 🌐 Open-source Django / Python projects
+- 🧩 AI-integrated web apps
+- 💻 Freelance web development
+- ☁️ Cloud security & DevOps learning projects
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<p align="center">
+  <a href="https://linkedin.com/in/nveerababu"><img src="https://img.shields.io/badge/LinkedIn-6a11cb?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:neeliveerababu47@gmail.com"><img src="https://img.shields.io/badge/Gmail-2575fc?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/nveerababu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+<p align="center"><i>Thanks for stopping by ⭐ — star this profile if you liked it!</i></p>
