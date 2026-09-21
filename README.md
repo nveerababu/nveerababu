@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm N Veera Babu 👋</h1>
+<h1 align="center">Hi there, I'm  Veera Babu 👋</h1>
 <h3 align="center">Python Full Stack Developer | Django • AI Integrations • Cloud & CRM</h3>
 
 <p align="center">
